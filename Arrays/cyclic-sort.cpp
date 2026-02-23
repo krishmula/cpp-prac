@@ -16,7 +16,8 @@ void cyclicSort(vector<int>& nums) {
 
 
 int main () {
-    vector<int> nums = {3, 5, 2, 1, 4};
+    // vector<int> nums = {3, 5, 2, 1, 4};
+    vector<int> nums = {4, 3, 2, 7, 8, 2, 3, 1};
 
     cyclicSort(nums);
 
